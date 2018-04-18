@@ -2091,7 +2091,6 @@
 							-o-transition: all .25s ease-in-out;
 							-ms-transition: all .25s ease-in-out;
 							transition: all .25s ease-in-out;
-							outline: 0;
 						}
 
 						#nav > ul > li:hover > a {
