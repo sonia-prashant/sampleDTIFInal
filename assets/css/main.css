@@ -2059,6 +2059,7 @@
 				#nav > ul {
 					display: inline-block;
 					border-radius: 0.35em;
+					border-color: black;
 					box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
 					padding: 0 0.5em 0 0.5em;
 					background-color: black;
